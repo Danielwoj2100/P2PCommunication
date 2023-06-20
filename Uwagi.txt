@@ -1,0 +1,1 @@
+Dorobić przesyłanie bitów a nie tylko tekstowe.
